@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://222.135.77.115:8081/client/junmin/junmin.ipa</string>
+					<string>http://222.135.77.112:8081/client/junmin/junmin.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://222.135.77.115:8081/client/junmin/junmin-large.png</string>
+					<string>http://222.135.77.112:8081/client/junmin/junmin-large.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://222.135.77.115:8081/client/junmin/junmin-small.png</string>
+					<string>http://222.135.77.112:8081/client/junmin/junmin-small.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
