@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.intwork.umlxep</string>
+				<string>com.intwork.carnet</string>
 				<key>bundle-version</key>
 				<string>6.1.1207</string>
 				<key>kind</key>
