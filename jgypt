@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://222.135.77.115:8081/download/large.png</string>
+					<string>http://222.135.77.115:8081/download/download/large.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://222.135.77.115:8081/download/small.png</string>
+					<string>http://222.135.77.115:8081/download/download/small.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
